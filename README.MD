@@ -16,7 +16,5 @@ go get github.com/dimasprasetyo71/mathgo
       
 ini cara gunainya      
 ``` sh
-
-	print(math.Tambah(1, 2))
-    	#3 
+	print(math.Tambah(1, 2)) #3 
 ```
