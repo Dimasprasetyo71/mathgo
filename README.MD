@@ -8,3 +8,14 @@ Gunakan `go get` untuk menginstal modul ini:
 
 ```bash
 go get github.com/dimasprasetyo71/mathgo
+
+```
+
+
+      
+      
+``` sh
+
+	print(math.Tambah(1, 2))
+    	#3 
+```
