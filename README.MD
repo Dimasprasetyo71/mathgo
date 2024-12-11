@@ -9,11 +9,11 @@ Gunakan `go get` untuk menginstal modul ini:
 ```bash
 go get github.com/dimasprasetyo71/mathgo
 
-```
+
 
 
       
-      
+ini cara gunainya      
 ``` sh
 
 	print(math.Tambah(1, 2))
